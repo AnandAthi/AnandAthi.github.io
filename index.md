@@ -2,4 +2,4 @@
 title: "Welcome to my page"
 ---
 
-My day job is a software developer but I'm also very interested in Science, History and Language and Culture. 
+My day job is a software developer but I'm also very interested in Science, History, Language and Culture. 
