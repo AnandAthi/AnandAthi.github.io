@@ -1,5 +1,5 @@
 ---
-title: Know about me more. 
+title: Know more about me. 
 ---
 
 My name is Anand Athinarayanan. My day job is software engineer in Toronto. I like to craft clean software following SOLID principles. I also work on building full stack Enterpise scale systems mostly in the Insurance domain. 
