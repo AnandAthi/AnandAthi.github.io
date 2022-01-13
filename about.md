@@ -10,7 +10,7 @@ Headover to my Linkedin [Profile](https://www.linkedin.com/in/anandathinarayanan
 Outside of work is where things start to get interesting about me :) 
 I love Science, History, Astronomy, Language, Philosophy, Religion, Culture, Finance, Politics and Environment/Activism. I like reading up and listening to podcasts on these topics. You can find my bookshelf on [GoodReads](https://www.goodreads.com/review/list/49757611-anand-athinarayanan?shelf=%23ALL%23) to get a hint of what I'm currently reading/listening now. 
 
-Who doesn't like Travelling ? While I haven't done much myself yet, I(we) am picking up speed. My personal travel list includes visiting as much as possible from UNESCO's world heritage [list](https://whc.unesco.org/en/list/)
+Who doesn't like Travelling ? While I haven't done much myself yet, I(we) am picking up speed. My personal travel list includes visiting as much as possible from UNESCO's world heritage [list](https://whc.unesco.org/en/list/). I'm a travel plan Chakravarti(Sanskrit for Emperor) and love planning down to a tee. 
 
 My recent fetish is with the FIRE(Financial Independence Retire Early) movement. I realized this is my calling and life's purpose, for real :)
 
