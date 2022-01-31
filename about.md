@@ -19,3 +19,5 @@ My recent fetish is with the FIRE(Financial Independence Retire Early) movement.
 I'm also active on [Quora](https://www.quora.com/profile/Anand-Athinarayanan-%E0%AE%85%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%8D-%E0%AE%86%E0%AE%A4%E0%AE%BF%E0%AE%A8%E0%AE%BE%E0%AE%B0%E0%AE%BE%E0%AE%AF%E0%AE%A3%E0%AE%A9%E0%AF%8D), mostly upvoting and commenting and sometimes on Reddit too. Other channels are [Facebook](https://www.facebook.com/anand.athinarayanan/) and [Twitter](https://twitter.com/elankavii) but I'm not super active in them. 
 
 Finally, I'm an avid meditation practioner, specifically the mindfulness meditation. I enjoy listening to Sam Harris and his insanely awesome meditation app - [Waking up](https://www.wakingup.com/). 
+
+Trivia - I can speak 2 Languages - Tamil and English, read,write and understand(partly) in 4 - Tamil, English, Sanskrit and Hindi
