@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Anand
+title: Why I write?
 ---
 # Why I write ?
 
