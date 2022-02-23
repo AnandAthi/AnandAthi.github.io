@@ -2,7 +2,6 @@
 layout: post
 author: Anand
 title: Why I write?
-theme: jekyll-theme-cayman
 ---
 # Why I write ?
 
