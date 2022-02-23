@@ -1,7 +1,7 @@
 ---
-layout: post
+title: Why I write
+layout: default
 author: Anand
-title: Why I write?
 ---
 # Why I write ?
 
