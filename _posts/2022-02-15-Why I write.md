@@ -1,6 +1,6 @@
 ---
 title: Why I write
-layout: default
+layout: post
 author: Anand
 ---
 # Why I write ?
