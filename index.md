@@ -3,9 +3,6 @@ layout: base
 title: "Howdy ! வணக்கம்! नमस्कारं ! "
 ---
 
- {% include navigation.html %}
-
-
 # Latest Posts
 
 <ul>
