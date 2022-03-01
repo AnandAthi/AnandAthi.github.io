@@ -1,8 +1,8 @@
 ---
+layout: base
 title: Know more about me. 
 ---
 
- {% include navigation.html %}
 
 My name is Anand Athinarayanan. My day job is a Software Engineer in Toronto. I like to craft clean software following SOLID principles. I also work on building full stack Enterpise scale systems mostly in the Insurance domain. 
 My primary tech stack at work is Guidewire Insurance Suite, Gosu and Java but like many Enterprise Software Engineers I'm comfortable with a wide variety of programming languages and full stack development using MEAN, MERN and JAM solution stacks, Spring Boot and other cloud native software development tools and technologies.  
