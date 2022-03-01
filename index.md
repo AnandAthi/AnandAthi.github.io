@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Howd'y ! வணக்கம்! नमस्कारं ! "
+title: "Howdy ! வணக்கம்! नमस्कारं ! "
 ---
 
  {% include navigation.html %}
