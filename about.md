@@ -3,7 +3,11 @@ layout: base
 title: Know more about me. 
 ---
 
+<div class="profilepic">
+  ![Anand Profile Pic](/assets/AnandProfilePic.jpg)
+</div>
 
+<div class = "aboutcontent">
 My name is Anand Athinarayanan. My day job is a Software Engineer in Toronto. I like to craft clean software following SOLID principles. I also work on building full stack Enterpise scale systems mostly in the Insurance domain. 
 My primary tech stack at work is Guidewire Insurance Suite, Gosu and Java but like many Enterprise Software Engineers I'm comfortable with a wide variety of programming languages and full stack development using MEAN, MERN and JAM solution stacks, Spring Boot and other cloud native software development tools and technologies.  
 Like most polyglot Software Engineers, I hone my skills by learning and practicing new technology and programming languages, working on side projects, all of which is available on [GitHub](https://github.com/AnandAthi/). 
@@ -21,3 +25,4 @@ I'm also active on [Quora](https://www.quora.com/profile/Anand-Athinarayanan-%E0
 Finally, I'm an avid meditation practioner, specifically the mindfulness meditation. I enjoy listening to Sam Harris and his insanely awesome meditation app - [Waking up](https://www.wakingup.com/). 
 
 Trivia - I can speak 2 Languages - Tamil and English, read,write and understand(partly) in 4 - Tamil, English, Sanskrit and Hindi
+</div>
