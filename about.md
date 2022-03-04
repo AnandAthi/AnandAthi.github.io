@@ -4,7 +4,7 @@ title: Know more about me.
 ---
 
 <div class="profilepic">
-  ![Anand Profile Pic](/assets/AnandProfilePic.jpg)
+  ![Anand Profile Pic]({{ site.baseurl }}/assets/images/AnandProfilePic.jpg)
 </div>
 
 <div class = "aboutcontent">
