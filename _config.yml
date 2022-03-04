@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: HomePage
 
 github_username:  AnandAthi
+baseurl: /
