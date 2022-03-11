@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: home
 title: "Howdy ! வணக்கம்! नमस्कारं ! "
 ---
 
