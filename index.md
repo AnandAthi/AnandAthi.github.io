@@ -3,8 +3,6 @@ layout: home
 title: "Howdy ! வணக்கம்! नमस्कारं ! "
 ---
 
-# Latest Posts
-
 <ul>
   {% for post in site.posts %}
     <li>
