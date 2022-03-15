@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="/assets/css/styles.css">
 <nav>
   {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
+    <a href="{{ item.link }}" class="navbar-brand">
       {{ item.name }}
     </a>
   {% endfor %}
